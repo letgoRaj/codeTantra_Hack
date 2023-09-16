@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inter: Inter;
+  
+    /* Colors */
+    --color-gray: #011627;
+    --color-white: #fff;
+  }
+  
